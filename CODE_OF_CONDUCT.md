@@ -1,5 +1,7 @@
 # 🤝 Code of Conduct
 
+[<img src="https://github.com/user-attachments/assets/c62c6e40-c86f-4790-ac95-bb3dbf80a00f">](https://discord.gg/3zbfaTNN7V)
+
 - We are committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic.
 - Please avoid using overtly sexual aliases or other nicknames that might detract from a friendly, safe and welcoming environment for all.
 - Please be kind and courteous. There’s no need to be mean or rude.
