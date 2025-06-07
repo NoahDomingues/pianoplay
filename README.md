@@ -1,4 +1,5 @@
-# Pianoplay
+# PianoPlay
+
 Web-based application to extract piano notes from MP3 files
   
 Available at: https://noahdomingues.github.io/pianofy/
