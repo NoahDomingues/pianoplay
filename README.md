@@ -1,5 +1,7 @@
 # PianoPlay
 
+[<img src="https://github.com/user-attachments/assets/c62c6e40-c86f-4790-ac95-bb3dbf80a00f">](https://discord.gg/3zbfaTNN7V)
+
 ### 🎵 Web-based application to extract piano notes from MP3 files.
   
 Available at: **https://noahdomingues.github.io/pianofy/**
