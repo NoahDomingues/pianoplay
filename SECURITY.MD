@@ -1,10 +1,10 @@
 # 🔒 Security
 
-[<img src="https://github.com/user-attachments/assets/7fe76dd2-d329-420f-a809-7424960cf766">](https://discord.gg/3zbfaTNN7V)
+[<img src="https://github.com/user-attachments/assets/c62c6e40-c86f-4790-ac95-bb3dbf80a00f">](https://discord.gg/3zbfaTNN7V)
 
-We take the security of our software products and services seriously, including [Lithium 5](https://github.com/NoahDomingues/Lithium).
+We take the security of our software products and services seriously, including [PianoPlay](https://github.com/NoahDomingues/pianoplay).
 
-If you believe you have found a security vulnerability in this open source repository, you can report it to us privately through our [Discord server](https://discord.gg/3zbfaTNN7V).
+If you believe you have found a security vulnerability in this open source repository, you can report it to us privately via [email](mailto:noahsdom@gmail.com).
 
 **Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
 
